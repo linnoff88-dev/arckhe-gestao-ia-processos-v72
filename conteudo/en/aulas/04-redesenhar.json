@@ -60,7 +60,7 @@
           "detalhe": "With a smaller process, each step that remains gets an executor: person, simple automation, agent, screen automation, or integration. That decision is lesson 5. The agent receives a redesigned process, never \"do it the same as the team.\""
         }
       ],
-      "legenda": "Competency 2 of the AI Management Area (INEMA): should this process still exist? Eliminate, simplify, redesign, and only then automate.",
+      "legenda": "Competency 2 of the AI Management Area (ARCKHÉ): should this process still exist? Eliminate, simplify, redesign, and only then automate.",
       "dica": "What always stays: real requirement, judgment, and exception. They change place and size, but they don't disappear."
     },
     {
@@ -417,17 +417,17 @@
       "links": [
         {
           "t": "AI Work Architect: the most common mistake is automating the wrong process",
-          "href": "https://inematds.github.io/pffia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "AI Management Area: rule 1, do not automate a bad process",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "Agents: hire, delegate, and supervise (G3)",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "robo"
         }
       ]

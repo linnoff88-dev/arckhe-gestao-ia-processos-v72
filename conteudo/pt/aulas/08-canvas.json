@@ -66,7 +66,7 @@
           "detalhe": "Número da versão, fases da implantação, gatilho e passos de reversão, os riscos que o redesenho cria e a condição para interromper. Junto, a rubrica e a assinatura."
         }
       ],
-      "legenda": "Canvas de processo do método Gestoria (INEMA), em duas colunas: atual e futuro. A aprovação pedagógica não autoriza, sozinha, a mudança na empresa: essa decisão continua sendo de quem responde por ela."
+      "legenda": "Canvas de processo do método Gestoria (ARCKHÉ), em duas colunas: atual e futuro. A aprovação pedagógica não autoriza, sozinha, a mudança na empresa: essa decisão continua sendo de quem responde por ela."
     },
     {
       "tipo": "passos",
@@ -424,7 +424,7 @@
       "tipo": "texto",
       "titulo": "Certificação",
       "paragrafos": [
-        "Certificação INEMA de qualificação \"Gestor de IA\", em breve no cert.inema.pro. Não é certificação profissional regulada.",
+        "Certificação ARCKHÉ de qualificação \"Gestor de IA\", em breve no cert.ARCKHÉ.pro. Não é certificação profissional regulada.",
         "Este é o curso G2 da Formação Gestão de IA 2027. Os outros cursos tratam da empresa agêntica (G0), das pessoas (G1), dos agentes (G3), dos recursos (G4) e de governar, medir e evoluir (G5), onde fica o projeto final da formação."
       ]
     },
@@ -434,17 +434,17 @@
       "links": [
         {
           "t": "Área Gestão de IA: a formação e os cursos",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "Agentes: contratar, delegar e supervisionar (G3)",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "robo"
         },
         {
           "t": "Laboratório Horizonte: todas as peças (empresa fictícia de estudo)",
-          "href": "https://inematds.github.io/prof2030-lab/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "pasta"
         }
       ]

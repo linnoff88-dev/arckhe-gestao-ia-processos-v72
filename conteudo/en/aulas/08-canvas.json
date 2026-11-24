@@ -66,7 +66,7 @@
           "detalhe": "Version number, rollout phases, trigger and rollback steps, the risks the redesign creates, and the condition to stop. Along with it, the rubric and the signature."
         }
       ],
-      "legenda": "Process canvas from the Gestoria method (INEMA), in two columns: current and future. Educational approval does not, by itself, authorize the change in the company: that decision remains with whoever answers for it."
+      "legenda": "Process canvas from the Gestoria method (ARCKHÉ), in two columns: current and future. Educational approval does not, by itself, authorize the change in the company: that decision remains with whoever answers for it."
     },
     {
       "tipo": "passos",
@@ -424,7 +424,7 @@
       "tipo": "texto",
       "titulo": "Certificate",
       "paragrafos": [
-        "INEMA qualification certificate \"AI Manager\", coming soon at cert.inema.pro. It is not a regulated professional certification.",
+        "ARCKHÉ qualification certificate \"AI Manager\", coming soon at cert.ARCKHÉ.pro. It is not a regulated professional certification.",
         "This is course G2 of the AI Management Program 2027. The other courses cover the agentic company (G0), people (G1), agents (G3), resources (G4), and governing, measuring, and evolving (G5), where the program's final project lives."
       ]
     },
@@ -434,17 +434,17 @@
       "links": [
         {
           "t": "AI Management Area: the program and the courses",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "Agents: hire, delegate, and supervise (G3)",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "robo"
         },
         {
           "t": "Horizonte Lab: all the pieces (fictional study company)",
-          "href": "https://inematds.github.io/prof2030-lab/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "pasta"
         }
       ]

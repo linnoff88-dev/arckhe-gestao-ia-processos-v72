@@ -1,21 +1,21 @@
 {
   "id": "gestao-ia-processos-v72",
   "lang": "pt-BR",
-  "url": "https://inematds.github.io/gestao-ia-processos-v72/",
+  "url": "https://linnoff88-dev.github.io/
   "nome": "Processos: processo não é sagrado",
   "sub": "Formação Gestão de IA 2027 · G2",
   "volta": {
     "t": "Área Gestão de IA",
-    "href": "https://eventos.inema.pro/gestao-ia/"
+    "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
   },
   "lado_card": {
     "rot": "Formação Gestão de IA 2027 · G2",
     "t": "Comece pela porta de entrada",
     "texto": "O G0 mostra a empresa agêntica e o papel do gestor de 2027. Os outros cursos da formação partem dele.",
     "link": "Ir para o G0",
-    "href": "https://inematds.github.io/gestao-ia-base-v72/"
+    "href": "https://linnoff88-dev.github.io/
   },
-  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · <a href=\"https://eventos.inema.pro/gestao-ia/\">eventos.inema.pro/gestao-ia</a> · <a href=\"https://inematds.github.io/prof2030-lab/\">laboratório Horizonte (empresa fictícia de estudo)</a> · <a href=\"https://inema.club/\">inema.club</a>",
+  "rodape": "ARCKHÉ AI · conteúdo aberto e gratuito · formato ARCKHÉ Learning v7.2 · <a href=\"https://eventos.ARCKHÉ.pro/gestao-ia/\">eventos.ARCKHÉ.pro/gestao-ia</a> · <a href=\"https://linnoff88-dev.github.io/ Horizonte (empresa fictícia de estudo)</a> · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a>",
   "videos": {},
   "inicio": {
     "kicker": "Formação Gestão de IA 2027 · G2 · 8 aulas",
@@ -24,7 +24,7 @@
     "cta": "Começar pela aula 1",
     "cta2": {
       "t": "Ver a área Gestão de IA",
-      "href": "https://eventos.inema.pro/gestao-ia/"
+      "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
     },
     "capa_alt": "Mesa de escritório ao entardecer com um notebook mostrando um fluxograma de blocos coloridos; ao fundo, desfocadas, as prateleiras de um depósito.",
     "numeros": [
@@ -54,7 +54,7 @@
           "rot": "G0 · porta de entrada · publicado",
           "t": "A empresa agêntica e o gestor de 2027",
           "l": "O que mudou na gestão, o que dizem as consultorias, o Brasil, a carreira e o seu primeiro processo.",
-          "href": "https://inematds.github.io/gestao-ia-base-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g0.jpg"
         },
@@ -62,7 +62,7 @@
           "rot": "G2 · processos · você está aqui",
           "t": "Processos: processo não é sagrado",
           "l": "Desmontar o processo antes de automatizar: eliminar, simplificar, redesenhar e decidir quem faz cada etapa.",
-          "href": "https://inematds.github.io/gestao-ia-processos-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g2.jpg"
         },
@@ -70,7 +70,7 @@
           "rot": "G3 · agentes · publicado",
           "t": "Agentes: contratar, delegar e supervisionar",
           "l": "Cargo, delegação, constituição, alçada, confiança progressiva, equipe de agentes e fila de exceções.",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g3.jpg"
         },
@@ -78,7 +78,7 @@
           "rot": "G4 · recursos · publicado",
           "t": "Recursos: modelos, dados e orçamento",
           "l": "Escolher modelo por caso, cuidar do contexto e do conhecimento da empresa e medir o custo por resultado.",
-          "href": "https://inematds.github.io/gestao-ia-recursos-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g4.jpg"
         },
@@ -86,7 +86,7 @@
           "rot": "G1 · pessoas · publicado",
           "t": "Pessoas: liderar a equipe híbrida",
           "l": "O que fica com as pessoas, a conversa sobre mudança, o júnior que supervisiona agentes e a formação da equipe.",
-          "href": "https://inematds.github.io/gestao-ia-pessoas-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g1.jpg"
         },
@@ -94,7 +94,7 @@
           "rot": "G5 · fechamento + projeto final · publicado",
           "t": "Governar, medir e evoluir",
           "l": "Responsáveis, permissões e registro; avaliação com indicadores; um ciclo LOOP-R e o projeto final da formação.",
-          "href": "https://inematds.github.io/gestao-ia-governanca-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g5.jpg"
         }
@@ -123,7 +123,7 @@
       {
         "t": "O caso que atravessa o curso",
         "itens": [
-          "A <b>Horizonte Distribuidora</b>, <a href=\"https://inematds.github.io/prof2030-lab/\">empresa fictícia de estudo</a> de 40 pessoas que distribui produtos de limpeza no interior de São Paulo.",
+          "A <b>Horizonte Distribuidora</b>, <a href=\"https://linnoff88-dev.github.io/ fictícia de estudo</a> de 40 pessoas que distribui produtos de limpeza no interior de São Paulo.",
           "Você faz o papel da <b>Patrícia Lima, gerente comercial</b>. O processo é o pedido que chega pelo WhatsApp e vai até a nota fiscal. O dono, Carlos, quer colocar a agente de vendas também no faturamento, do jeito que o processo está.",
           "Toda aula tem uma prática na Horizonte e outra no seu próprio processo. O mapa da aula 3 e o canvas da aula 8 servem para o seu trabalho de verdade."
         ]

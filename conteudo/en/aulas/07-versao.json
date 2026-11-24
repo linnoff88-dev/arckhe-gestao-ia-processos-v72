@@ -66,7 +66,7 @@
           "detalhe": "The promoted version goes into use, in phases. The previous one stays written down and labeled, with the step-by-step to bring it back. No worse version replaces the current one because a system decided so."
         }
       ],
-      "legenda": "Rule 3 of the agentic process (AI Management area): promoting and rolling back are steps, not accidents. LOOP-R cycle and the change contract of the Gestoria method (INEMA)."
+      "legenda": "Rule 3 of the agentic process (AI Management area): promoting and rolling back are steps, not accidents. LOOP-R cycle and the change contract of the Gestoria method (ARCKHÉ)."
     },
     {
       "tipo": "passos",
@@ -262,17 +262,17 @@
       "links": [
         {
           "t": "LOOP-R: guide to the improvement loop with a record and a back button",
-          "href": "https://inematds.github.io/loop-r/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "LOOP-R: course for owners and managers",
-          "href": "https://inematds.github.io/loop-r/curso/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "alvo"
         },
         {
           "t": "AI Management Area: rule 3, promoting and rolling back are steps",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "voltar"
         }
       ]

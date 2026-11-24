@@ -60,7 +60,7 @@
           "detalhe": "Ejecutar, observar, criticar, proponer, experimentar, validar, promover, repetir. El proceso deja de estar congelado: cada ejecución genera evidencia para la próxima versión, y la versión anterior queda guardada para poder volver. Es el tema de la clase 7."
         }
       ],
-      "legenda": "Generaciones de proceso del área Gestión de IA (INEMA). Conviven en la misma empresa: un proceso puede estar en el nivel 1 y otro en el 3.",
+      "legenda": "Generaciones de proceso del área Gestión de IA (ARCKHÉ). Conviven en la misma empresa: un proceso puede estar en el nivel 1 y otro en el 3.",
       "dica": "Antes de subir un proceso de nivel, pregunta si todavía debería existir de esa manera."
     },
     {
@@ -152,7 +152,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "La hoja de Horizonte para entrenar el ojo; la de tu proceso para que valga de verdad.",
-      "fonte": "Piezas del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp</a> y <a href=\"https://inematds.github.io/prof2030-lab/pecas/app-pedidos/\">app de pedidos</a> (empresa ficticia de estudio).",
+      "fonte": "Piezas del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de WhatsApp</a> y <a href=\"https://linnoff88-dev.github.io/ de pedidos</a> (empresa ficticia de estudio).",
       "exercicios": [
         {
           "id": "e1",
@@ -249,17 +249,17 @@
       "links": [
         {
           "t": "Área Gestión de IA: el proceso no es sagrado",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "Arquitecto de Trabajo con IA: rediseñar quién hace qué",
-          "href": "https://inematds.github.io/pffia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Laboratorio Horizonte: las piezas de la empresa (empresa ficticia de estudio)",
-          "href": "https://inematds.github.io/prof2030-lab/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "pasta"
         }
       ]

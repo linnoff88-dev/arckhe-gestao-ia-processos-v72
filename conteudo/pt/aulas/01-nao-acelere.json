@@ -60,7 +60,7 @@
           "detalhe": "Executar, observar, criticar, propor, experimentar, validar, promover, repetir. O processo deixa de ser congelado: cada execução gera evidência para a próxima versão, e a versão anterior fica guardada para voltar. É o assunto da aula 7."
         }
       ],
-      "legenda": "Gerações de processo da área Gestão de IA (INEMA). Elas convivem na mesma empresa: um processo pode estar no degrau 1 e outro no 3.",
+      "legenda": "Gerações de processo da área Gestão de IA (ARCKHÉ). Elas convivem na mesma empresa: um processo pode estar no degrau 1 e outro no 3.",
       "dica": "Antes de subir um processo de degrau, pergunte se ele ainda deveria existir desse jeito."
     },
     {
@@ -152,7 +152,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "A folha da Horizonte para treinar o olho; a do seu processo para valer.",
-      "fonte": "Peças do laboratório: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp</a> e <a href=\"https://inematds.github.io/prof2030-lab/pecas/app-pedidos/\">app de pedidos</a> (empresa fictícia de estudo).",
+      "fonte": "Peças do laboratório: <a href=\"https://linnoff88-dev.github.io/ de WhatsApp</a> e <a href=\"https://linnoff88-dev.github.io/ de pedidos</a> (empresa fictícia de estudo).",
       "exercicios": [
         {
           "id": "e1",
@@ -249,17 +249,17 @@
       "links": [
         {
           "t": "Área Gestão de IA: processo não é sagrado",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "Arquiteto de Trabalho com IA: redesenhar quem faz o quê",
-          "href": "https://inematds.github.io/pffia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Laboratório Horizonte: as peças da empresa (empresa fictícia de estudo)",
-          "href": "https://inematds.github.io/prof2030-lab/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "pasta"
         }
       ]

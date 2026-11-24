@@ -60,7 +60,7 @@
           "detalhe": "Execute, observe, critique, propose, experiment, validate, promote, repeat. The process is no longer frozen: each execution generates evidence for the next version, and the previous version is kept so you can go back. This is the subject of lesson 7."
         }
       ],
-      "legenda": "Process generations in the AI Management Area (INEMA). They coexist in the same company: one process can be at step 1 and another at step 3.",
+      "legenda": "Process generations in the AI Management Area (ARCKHÉ). They coexist in the same company: one process can be at step 1 and another at step 3.",
       "dica": "Before moving a process up a step, ask whether it should still exist this way."
     },
     {
@@ -152,7 +152,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "The Horizonte sheet to train your eye; the one for your own process for real.",
-      "fonte": "Lab pieces: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">WhatsApp agent</a> and <a href=\"https://inematds.github.io/prof2030-lab/pecas/app-pedidos/\">orders app</a> (fictional study company).",
+      "fonte": "Lab pieces: <a href=\"https://linnoff88-dev.github.io/ agent</a> and <a href=\"https://linnoff88-dev.github.io/ app</a> (fictional study company).",
       "exercicios": [
         {
           "id": "e1",
@@ -249,17 +249,17 @@
       "links": [
         {
           "t": "AI Management Area: process is not sacred",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "AI Work Architect: redesigning who does what",
-          "href": "https://inematds.github.io/pffia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Horizonte Lab: the company's pieces (fictional study company)",
-          "href": "https://inematds.github.io/prof2030-lab/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "pasta"
         }
       ]

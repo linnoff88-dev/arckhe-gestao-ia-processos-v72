@@ -224,7 +224,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "El mapa de Horizonte con los cinco casos listos; el de tu proceso con casos que tú mismo acompañas.",
-      "fonte": "Piezas del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp</a> y <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">panel</a> (empresa ficticia de estudio).",
+      "fonte": "Piezas del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de WhatsApp</a> y <a href=\"https://linnoff88-dev.github.io/ (empresa ficticia de estudio).",
       "exercicios": [
         {
           "id": "e1",
@@ -333,17 +333,17 @@
       "links": [
         {
           "t": "Arquitecto de Trabajo con IA: todo proceso tiene seis eslabones",
-          "href": "https://inematds.github.io/pffia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Copilot + Agentes para Empresas: del prompt al workflow",
-          "href": "https://inematds.github.io/copilot-agentic/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         },
         {
           "t": "Laboratorio Horizonte: las conversaciones de la agente (empresa ficticia de estudio)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "chat"
         }
       ]

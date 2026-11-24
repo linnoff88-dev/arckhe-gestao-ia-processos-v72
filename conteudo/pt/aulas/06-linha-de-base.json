@@ -65,7 +65,7 @@
           "detalhe": "Meta com valor e prazo. E um guarda-corpo: o que não pode piorar enquanto você persegue a meta (erro na nota, desconto fora da política, reclamação). Melhorar um número estragando outro não é melhoria."
         }
       ],
-      "legenda": "Regras de indicador do método Gestoria (INEMA): sempre período, população, denominador e origem; teste, piloto e produção separados."
+      "legenda": "Regras de indicador do método Gestoria (ARCKHÉ): sempre período, população, denominador e origem; teste, piloto e produção separados."
     },
     {
       "tipo": "passos",
@@ -165,7 +165,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "Corrigir o painel da Horizonte; depois medir o seu processo antes de mexer.",
-      "fonte": "Peça do laboratório: <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">painel de indicadores</a> (F11, empresa fictícia de estudo).",
+      "fonte": "Peça do laboratório: <a href=\"https://linnoff88-dev.github.io/ de indicadores</a> (F11, empresa fictícia de estudo).",
       "exercicios": [
         {
           "id": "e1",
@@ -274,17 +274,17 @@
       "links": [
         {
           "t": "Laboratório Horizonte: o painel sem linha de base (empresa fictícia de estudo)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "grafico"
         },
         {
           "t": "Copilot + Agentes para Empresas: indicadores que viram ação",
-          "href": "https://inematds.github.io/copilot-agentic/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "alvo"
         },
         {
           "t": "Área Gestão de IA: o que o gestor mede",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "camadas"
         }
       ]

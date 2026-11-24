@@ -65,7 +65,7 @@
           "detalhe": "Os outros não somem: ficam numa fila, com o motivo de não serem agora e o que precisaria mudar para subirem. É o que impede que cada área comece um projeto de IA pelo seu lado."
         }
       ],
-      "legenda": "Critérios do módulo 1 do método Gestoria (INEMA) e do Arquiteto de Trabalho com IA."
+      "legenda": "Critérios do módulo 1 do método Gestoria (ARCKHÉ) e do Arquiteto de Trabalho com IA."
     },
     {
       "tipo": "passos",
@@ -156,7 +156,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "A matriz da Horizonte para calibrar as notas; a sua para valer.",
-      "fonte": "Peças do laboratório: <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">inventário de TI</a> e <a href=\"https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/\">resumo de atendimento</a> (empresa fictícia de estudo).",
+      "fonte": "Peças do laboratório: <a href=\"https://linnoff88-dev.github.io/ de TI</a> e <a href=\"https://linnoff88-dev.github.io/ de atendimento</a> (empresa fictícia de estudo).",
       "exercicios": [
         {
           "id": "e1",
@@ -253,17 +253,17 @@
       "links": [
         {
           "t": "Arquiteto de Trabalho com IA: dez processos críticos, não dezenas de chatbots",
-          "href": "https://inematds.github.io/pffia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "alvo"
         },
         {
           "t": "Laboratório Horizonte: inventário de TI e IA na sombra (empresa fictícia de estudo)",
-          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         },
         {
           "t": "Área Gestão de IA: as 8 competências",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "camadas"
         }
       ]

@@ -60,7 +60,7 @@
           "detalhe": "Com o processo menor, cada etapa que sobrou ganha um executor: pessoa, automação simples, agente, automação de tela ou integração. Essa decisão é a aula 5. O agente recebe um processo redesenhado, nunca \"faça igual à equipe\"."
         }
       ],
-      "legenda": "Competência 2 da área Gestão de IA (INEMA): esse processo ainda deveria existir? Eliminar, simplificar, redesenhar, e só então automatizar.",
+      "legenda": "Competência 2 da área Gestão de IA (ARCKHÉ): esse processo ainda deveria existir? Eliminar, simplificar, redesenhar, e só então automatizar.",
       "dica": "O que fica sempre: exigência real, julgamento e exceção. Eles mudam de lugar e de tamanho, mas não somem."
     },
     {
@@ -417,17 +417,17 @@
       "links": [
         {
           "t": "Arquiteto de Trabalho com IA: o erro mais comum é automatizar o processo errado",
-          "href": "https://inematds.github.io/pffia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Área Gestão de IA: regra 1, não automatize um processo ruim",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "Agentes: contratar, delegar e supervisionar (G3)",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "robo"
         }
       ]

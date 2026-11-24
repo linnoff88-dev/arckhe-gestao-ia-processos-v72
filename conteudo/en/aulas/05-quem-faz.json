@@ -66,7 +66,7 @@
           "detalhe": "A system with no service door: screen automation, which repeats a recorded sequence, works if the screen doesn't change. Computer Use, where the agent looks at the screen and decides where to click, comes last: more flexible, less predictable, more expensive per run, and with a person confirming before anything is saved."
         }
       ],
-      "legenda": "Order of choices for getting into a system: service door or connector, flow with a connector, screen automation, Computer Use (Copilot + Agents for Business, INEMA). Each step down is more fragile and more expensive to maintain.",
+      "legenda": "Order of choices for getting into a system: service door or connector, flow with a connector, screen automation, Computer Use (Copilot + Agents for Business, ARCKHÉ). Each step down is more fragile and more expensive to maintain.",
       "dica": "The manager decides the executor and the reason. Building the integration is up to IT or the vendor."
     },
     {
@@ -163,7 +163,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "The Horizonte chart for version 2.0; then the one for your process.",
-      "fonte": "Lab piece: <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">IT inventory</a>, with Horizonte's systems (fictional study company).",
+      "fonte": "Lab piece: <a href=\"https://linnoff88-dev.github.io/ inventory</a>, with Horizonte's systems (fictional study company).",
       "exercicios": [
         {
           "id": "e1",
@@ -271,17 +271,17 @@
       "links": [
         {
           "t": "Copilot + Agents for Businesses: when the system has no door",
-          "href": "https://inematds.github.io/copilot-agentic/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "AI Work Architect: rule or judgment",
-          "href": "https://inematds.github.io/pffia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "portao"
         },
         {
           "t": "Agents: hire, delegate, and supervise (G3)",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "robo"
         }
       ]

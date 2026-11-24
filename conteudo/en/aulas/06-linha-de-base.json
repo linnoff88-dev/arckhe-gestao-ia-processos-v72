@@ -65,7 +65,7 @@
           "detalhe": "A target with a value and a deadline. And a guardrail: what can't get worse while you chase the target (invoice errors, discounts outside policy, complaints). Improving one number by wrecking another is not improvement."
         }
       ],
-      "legenda": "Indicator rules from the Gestoria method (INEMA): always period, population, denominator, and source; test, pilot, and production kept separate."
+      "legenda": "Indicator rules from the Gestoria method (ARCKHÉ): always period, population, denominator, and source; test, pilot, and production kept separate."
     },
     {
       "tipo": "passos",
@@ -165,7 +165,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Fix Horizonte's dashboard; then measure your own process before changing it.",
-      "fonte": "Lab piece: <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">indicator dashboard</a> (F11, fictional study company).",
+      "fonte": "Lab piece: <a href=\"https://linnoff88-dev.github.io/ dashboard</a> (F11, fictional study company).",
       "exercicios": [
         {
           "id": "e1",
@@ -274,17 +274,17 @@
       "links": [
         {
           "t": "Laboratório Horizonte: the dashboard with no baseline (fictional study company)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "grafico"
         },
         {
           "t": "Copilot + Agents for Business: indicators that turn into action",
-          "href": "https://inematds.github.io/copilot-agentic/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "alvo"
         },
         {
           "t": "AI Management Area: what the manager measures",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "camadas"
         }
       ]

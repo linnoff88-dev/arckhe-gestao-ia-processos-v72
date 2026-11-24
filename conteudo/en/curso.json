@@ -1,21 +1,21 @@
 {
   "id": "gestao-ia-processos-v72",
   "lang": "en",
-  "url": "https://inematds.github.io/gestao-ia-processos-v72/en/",
+  "url": "https://linnoff88-dev.github.io/
   "nome": "Processes: process is not sacred",
   "sub": "AI Management Program 2027 · G2",
   "volta": {
     "t": "AI Management Area",
-    "href": "https://eventos.inema.pro/gestao-ia/"
+    "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
   },
   "lado_card": {
     "rot": "AI Management Program 2027 · G2",
     "t": "Start at the front door",
     "texto": "G0 shows the agentic company and the role of the 2027 manager. The other courses in the program build on it.",
     "link": "Go to G0",
-    "href": "https://inematds.github.io/gestao-ia-base-v72/"
+    "href": "https://linnoff88-dev.github.io/
   },
-  "rodape": "INEMA.CLUB · open and free content · INEMA Learning v7.2 format · <a href=\"https://eventos.inema.pro/gestao-ia/\">eventos.inema.pro/gestao-ia</a> · <a href=\"https://inematds.github.io/prof2030-lab/\">Horizonte lab (fictional study company)</a> · <a href=\"https://inema.club/\">inema.club</a>",
+  "rodape": "ARCKHÉ AI · open and free content · ARCKHÉ Learning v7.2 format · <a href=\"https://eventos.ARCKHÉ.pro/gestao-ia/\">eventos.ARCKHÉ.pro/gestao-ia</a> · <a href=\"https://linnoff88-dev.github.io/ lab (fictional study company)</a> · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a>",
   "videos": {},
   "inicio": {
     "kicker": "AI Management Program 2027 · G2 · 8 lessons",
@@ -24,7 +24,7 @@
     "cta": "Start with lesson 1",
     "cta2": {
       "t": "See the AI Management Area",
-      "href": "https://eventos.inema.pro/gestao-ia/"
+      "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
     },
     "capa_alt": "Office desk at dusk with a notebook showing a flowchart of colored blocks; in the background, blurred, the shelves of a warehouse.",
     "numeros": [
@@ -54,7 +54,7 @@
           "rot": "G0 · entry point · published",
           "t": "The agentic company and the 2027 manager",
           "l": "What changed in management, what the consultancies say, Brazil, your career and your first process.",
-          "href": "https://inematds.github.io/gestao-ia-base-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g0.jpg"
         },
@@ -62,7 +62,7 @@
           "rot": "G2 · processes · you are here",
           "t": "Processes: process is not sacred",
           "l": "Take the process apart before automating it: eliminate, simplify, redesign, and decide who does each step.",
-          "href": "https://inematds.github.io/gestao-ia-processos-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g2.jpg"
         },
@@ -70,7 +70,7 @@
           "rot": "G3 · agents · published",
           "t": "Agents: hire, delegate, and supervise",
           "l": "Role, delegation, constitution, authority limit, progressive trust, agent team, and exception queue.",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g3.jpg"
         },
@@ -78,7 +78,7 @@
           "rot": "G4 · resources · published",
           "t": "Resources: models, data, and budget",
           "l": "Choose a model for each case, take care of context and company knowledge, and measure cost per result.",
-          "href": "https://inematds.github.io/gestao-ia-recursos-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g4.jpg"
         },
@@ -86,7 +86,7 @@
           "rot": "G1 · people · published",
           "t": "People: leading the hybrid team",
           "l": "What stays with people, the conversation about change, the junior who supervises agents, and team training.",
-          "href": "https://inematds.github.io/gestao-ia-pessoas-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g1.jpg"
         },
@@ -94,7 +94,7 @@
           "rot": "G5 · wrap-up + final project · published",
           "t": "Govern, measure, and evolve",
           "l": "Owners, permissions, and records; evaluation with indicators; one LOOP-R cycle and the program's final project.",
-          "href": "https://inematds.github.io/gestao-ia-governanca-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g5.jpg"
         }
@@ -123,7 +123,7 @@
       {
         "t": "The case that runs through the course",
         "itens": [
-          "<b>Horizonte Distribuidora</b>, a 40-person <a href=\"https://inematds.github.io/prof2030-lab/\">fictional study company</a> that distributes cleaning products in the interior of São Paulo.",
+          "<b>Horizonte Distribuidora</b>, a 40-person <a href=\"https://linnoff88-dev.github.io/ study company</a> that distributes cleaning products in the interior of São Paulo.",
           "You play <b>Patrícia Lima, sales manager</b>. The process is the order that arrives through WhatsApp and goes all the way to the invoice. The owner, Carlos, wants to put the sales agent on invoicing too, just as the process stands.",
           "Every lesson has one practice at Horizonte and another on your own process. The map from lesson 3 and the canvas from lesson 8 are for your real work."
         ]

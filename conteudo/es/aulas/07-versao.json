@@ -66,7 +66,7 @@
           "detalhe": "La versión promovida entra en uso, por fases. La anterior sigue escrita e identificada, con el paso a paso para reactivarla. Ninguna versión peor reemplaza a la actual por decisión de un sistema."
         }
       ],
-      "legenda": "Regla 3 del proceso agéntico (área Gestión de IA): promover y revertir son etapas, no accidentes. Ciclo del LOOP-R y contrato de cambio del método Gestoria (INEMA)."
+      "legenda": "Regla 3 del proceso agéntico (área Gestión de IA): promover y revertir son etapas, no accidentes. Ciclo del LOOP-R y contrato de cambio del método Gestoria (ARCKHÉ)."
     },
     {
       "tipo": "passos",
@@ -262,17 +262,17 @@
       "links": [
         {
           "t": "LOOP-R: guía del ciclo de mejora con registro y botón de volver",
-          "href": "https://inematds.github.io/loop-r/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "LOOP-R: curso para dueños y gestores",
-          "href": "https://inematds.github.io/loop-r/curso/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "alvo"
         },
         {
           "t": "Área Gestión de IA: regla 3, promover y revertir son pasos",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "voltar"
         }
       ]
