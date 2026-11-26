@@ -17,13 +17,13 @@
       "t": "Por que volume sobe sem provar nada"
     },
     {
-      "t": "Escrever um indicador como fração, com período e origem"
+      "t": "Escrever um indicador como fraçêo, com período e origem"
     },
     {
       "t": "Marcar o que é observado e o que é hipótese"
     },
     {
-      "t": "Meta com prazo e o guarda-corpo do que não pode piorar"
+      "t": "Meta com prazo e o guarda-corpo do que nêo pode piorar"
     }
   ],
   "hero_alt": "O dono da empresa e a gerente comercial analisam um gráfico de barras impresso e um gráfico de linha no notebook; ela aponta para a parte inicial do gráfico.",
@@ -37,59 +37,59 @@
           "icone": "alvo",
           "titulo": "Pergunta",
           "sub": "o que você quer saber",
-          "detalhe": "Comece pela pergunta de negócio, não pelo número disponível. \"O pedido vira nota mais rápido e com menos retrabalho?\" leva a indicadores diferentes de \"a agente atende muita gente?\"."
+          "detalhe": "Comece pela pergunta de negócio, nêo pelo número disponível. \"O pedido vira nota mais rápido e com menos retrabalho?\" leva a indicadores diferentes de \"a agente atende muita gente?\"."
         },
         {
           "icone": "grafico",
-          "titulo": "Fração",
+          "titulo": "Fraçêo",
           "sub": "numerador ÷ denominador",
           "forte": true,
-          "detalhe": "O que você conta dividido pelo universo em que conta. \"Pedidos devolvidos pelo faturamento\" sozinho não diz nada; dividido por \"pedidos que chegaram ao faturamento na semana\", diz. Sem denominador, o número cresce junto com o volume."
+          "detalhe": "O que você conta dividido pelo universo em que conta. \"Pedidos devolvidos pelo faturamento\" sozinho nêo diz nada; dividido por \"pedidos que chegaram ao faturamento na semana\", diz. Sem denominador, o número cresce junto com o volume."
         },
         {
           "icone": "calendario",
           "titulo": "Período e origem",
           "sub": "quando e de onde",
-          "detalhe": "Semana, mês, quatro semanas. E a origem: contado num sistema, observado em casos acompanhados ou declarado por alguém. Compare sempre períodos parecidos (o fim do mês não é o começo)."
+          "detalhe": "Semana, mês, quatro semanas. E a origem: contado num sistema, observado em casos acompanhados ou declarado por alguém. Compare sempre períodos parecidos (o fim do mês nêo é o começo)."
         },
         {
           "icone": "relogio",
           "titulo": "Hoje",
           "sub": "observado ou hipótese",
-          "detalhe": "O valor antes de qualquer mudança. Se ainda não foi contado, entra como hipótese, com a data em que vai virar observado. Hipótese marcada é honestidade; número declarado tratado como medido é armadilha."
+          "detalhe": "O valor antes de qualquer mudança. Se ainda nêo foi contado, entra como hipótese, com a data em que vai virar observado. Hipótese marcada é honestidade; número declarado tratado como medido é armadilha."
         },
         {
           "icone": "escudo",
           "titulo": "Meta e guarda-corpo",
           "sub": "aonde e sem piorar o quê",
-          "detalhe": "Meta com valor e prazo. E um guarda-corpo: o que não pode piorar enquanto você persegue a meta (erro na nota, desconto fora da política, reclamação). Melhorar um número estragando outro não é melhoria."
+          "detalhe": "Meta com valor e prazo. E um guarda-corpo: o que nêo pode piorar enquanto você persegue a meta (erro na nota, desconto fora da política, reclamaçêo). Melhorar um número estragando outro nêo é melhoria."
         }
       ],
-      "legenda": "Regras de indicador do método Gestoria (ARCKHÉ): sempre período, população, denominador e origem; teste, piloto e produção separados."
+      "legenda": "Regras de indicador do método Gestoria (ARCKHÉ): sempre período, populaçêo, denominador e origem; teste, piloto e produçêo separados."
     },
     {
       "tipo": "passos",
       "titulo": "Do painel que sobe à linha de base",
-      "sub": "Os números do painel são do laboratório (empresa fictícia de estudo). Abra a peça e confira.",
+      "sub": "Os números do painel sêo do laboratório (empresa fictícia de estudo). Abra a peça e confira.",
       "passos": [
         {
           "titulo": "O painel que sobe",
           "sub": "volume sem denominador",
           "texto": [
-            "O painel da Hora mostra atendimentos subindo de 702 (semana de 01/09) para 901 (semana de 13/10), e pedidos fechados de 141 para 168. A coleta começou no mesmo dia em que a agente entrou. Não há o antes nem comparação.",
-            "A satisfação vem de um botão de estrelas que cerca de 6% dos clientes respondem. Uma média de quem respondeu não fala pelos outros 94%."
+            "O painel da Hora mostra atendimentos subindo de 702 (semana de 01/09) para 901 (semana de 13/10), e pedidos fechados de 141 para 168. A coleta começou no mesmo dia em que a agente entrou. Nêo há o antes nem comparaçêo.",
+            "A satisfaçêo vem de um botêo de estrelas que cerca de 6% dos clientes respondem. Uma média de quem respondeu nêo fala pelos outros 94%."
           ],
           "exemplo": {
-            "rot": "A conta que o painel não faz",
-            "texto": "Pedidos ÷ atendimentos: 141 ÷ 702 = 20,1% em 01/09; 168 ÷ 901 = 18,6% em 13/10. O volume subiu e a conversão caiu. \"Sobe\" não prova que a agente ajudou."
+            "rot": "A conta que o painel nêo faz",
+            "texto": "Pedidos ÷ atendimentos: 141 ÷ 702 = 20,1% em 01/09; 168 ÷ 901 = 18,6% em 13/10. O volume subiu e a conversêo caiu. \"Sobe\" nêo prova que a agente ajudou."
           }
         },
         {
           "titulo": "Três indicadores do processo",
           "sub": "tempo, retrabalho, trabalho de gente",
           "texto": [
-            "Para o pedido até a nota, três perguntas bastam: quanto tempo leva, quanto volta, quanto trabalho de gente consome. Cada uma vira uma fração com período e origem.",
-            "Tempo se mede pela mediana, não pela média: um pedido travado três dias puxa a média para cima e esconde o normal. Junte o pior caso típico (o p95) para não perder os travados de vista."
+            "Para o pedido até a nota, três perguntas bastam: quanto tempo leva, quanto volta, quanto trabalho de gente consome. Cada uma vira uma fraçêo com período e origem.",
+            "Tempo se mede pela mediana, nêo pela média: um pedido travado três dias puxa a média para cima e esconde o normal. Junte o pior caso típico (o p95) para nêo perder os travados de vista."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
@@ -100,24 +100,24 @@
           "titulo": "Observado ou hipótese",
           "sub": "quatro semanas antes de mexer",
           "texto": [
-            "Os cinco casos da aula 3 dão uma pista, não a linha de base. A linha de base sai de quatro semanas contadas nos sistemas, antes de qualquer mudança. Até lá, o valor de hoje entra marcado como hipótese, com a data em que vira observado.",
-            "Tempo de gente liberado também não é dinheiro economizado: só vira economia se a empresa reduzir um gasto ou usar o tempo em algo que dê para verificar."
+            "Os cinco casos da aula 3 dêo uma pista, nêo a linha de base. A linha de base sai de quatro semanas contadas nos sistemas, antes de qualquer mudança. Até lá, o valor de hoje entra marcado como hipótese, com a data em que vira observado.",
+            "Tempo de gente liberado também nêo é dinheiro economizado: só vira economia se a empresa reduzir um gasto ou usar o tempo em algo que dê para verificar."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
-            "texto": "Hoje: 30 h até a nota e 21 min de gente (mediana dos 5 casos, hipótese); devolução de cerca de 9% (\"uns 15 por semana\" ÷ 168, declarado, hipótese). Contagem no app e no ERP por quatro semanas antes da versão 2.0."
+            "texto": "Hoje: 30 h até a nota e 21 min de gente (mediana dos 5 casos, hipótese); devoluçêo de cerca de 9% (\"uns 15 por semana\" ÷ 168, declarado, hipótese). Contagem no app e no ERP por quatro semanas antes da versêo 2.0."
           }
         },
         {
           "titulo": "Meta e guarda-corpo",
           "sub": "aonde, até quando, sem piorar o quê",
           "texto": [
-            "Meta é valor e prazo, decidida por quem responde pelo processo, olhando a linha de base e não a vontade. Revise a meta quando a linha de base observada chegar: ela pode mostrar que a hipótese estava longe.",
-            "O guarda-corpo protege o que não pode piorar. Se a meta é velocidade, o guarda-corpo é erro: desconto fora da política, nota errada, reclamação."
+            "Meta é valor e prazo, decidida por quem responde pelo processo, olhando a linha de base e nêo a vontade. Revise a meta quando a linha de base observada chegar: ela pode mostrar que a hipótese estava longe.",
+            "O guarda-corpo protege o que nêo pode piorar. Se a meta é velocidade, o guarda-corpo é erro: desconto fora da política, nota errada, reclamaçêo."
           ],
           "exemplo": {
-            "rot": "Na Horizonte (decisão fictícia)",
-            "texto": "Metas para 8 semanas depois da versão 2.0: mediana até a nota de 24 h ou menos; devolução de 3% ou menos; minutos de gente por pedido abaixo de 15. Guarda-corpo: zero pedido com desconto fora da política."
+            "rot": "Na Horizonte (decisêo fictícia)",
+            "texto": "Metas para 8 semanas depois da versêo 2.0: mediana até a nota de 24 h ou menos; devoluçêo de 3% ou menos; minutos de gente por pedido abaixo de 15. Guarda-corpo: zero pedido com desconto fora da política."
           }
         }
       ]
@@ -130,17 +130,17 @@
         {
           "rot": "Ficha de indicador",
           "icone": "grafico",
-          "conteudo": "INDICADOR · <nome curto> · processo: <...> · dono do indicador: <nome>\n\nPergunta de negócio: <o que queremos saber>\nNumerador: <o que se conta>\nDenominador: <o universo em que se conta>\nFórmula: <numerador> ÷ <denominador>  (ou mediana / p95, para tempo)\nPeríodo: <semana / 4 semanas / mês> · comparar com: <período parecido>\nOrigem: <sistema e campo> · quem extrai: <nome>\n\nHOJE: <valor> · [ ] observado (contado de <data> a <data>, n = <...>)\n                [ ] hipótese (fonte: <...>) · vira observado em: <data>\nMETA: <valor> até <data> · decidida por: <nome>\nGUARDA-CORPO: <o que não pode piorar> · limite: <valor>\nNÃO CONFUNDIR COM: <o que este número não mostra>"
+          "conteudo": "INDICADOR · <nome curto> · processo: <...> · dono do indicador: <nome>\n\nPergunta de negócio: <o que queremos saber>\nNumerador: <o que se conta>\nDenominador: <o universo em que se conta>\nFórmula: <numerador> ÷ <denominador>  (ou mediana / p95, para tempo)\nPeríodo: <semana / 4 semanas / mês> · comparar com: <período parecido>\nOrigem: <sistema e campo> · quem extrai: <nome>\n\nHOJE: <valor> · [ ] observado (contado de <data> a <data>, n = <...>)\n                [ ] hipótese (fonte: <...>) · vira observado em: <data>\nMETA: <valor> até <data> · decidida por: <nome>\nGUARDA-CORPO: <o que nêo pode piorar> · limite: <valor>\nNêO CONFUNDIR COM: <o que este número nêo mostra>"
         },
         {
           "rot": "Quadro de linha de base (4 semanas)",
           "icone": "calendario",
-          "conteudo": "LINHA DE BASE · processo: <...> · versão em uso: <1.0> · de <data> a <data>\n\n| Semana | Casos (denominador) | Indicador 1 | Indicador 2 | Indicador 3 | Guarda-corpo | Observação (feriado, promoção, falta de produto) |\n|---|---|---|---|---|---|---|\n| <dd/mm> | <n> | <...> | <...> | <...> | <...> | <...> |\n| <dd/mm> | <n> | <...> | <...> | <...> | <...> | <...> |\n| <dd/mm> | <n> | <...> | <...> | <...> | <...> | <...> |\n| <dd/mm> | <n> | <...> | <...> | <...> | <...> | <...> |\n\nNada no processo mudou neste período? [ ] sim  [ ] não: <o quê, quando>\nAssinado por: <dono do processo> em <data>"
+          "conteudo": "LINHA DE BASE · processo: <...> · versêo em uso: <1.0> · de <data> a <data>\n\n| Semana | Casos (denominador) | Indicador 1 | Indicador 2 | Indicador 3 | Guarda-corpo | Observaçêo (feriado, promoçêo, falta de produto) |\n|---|---|---|---|---|---|---|\n| <dd/mm> | <n> | <...> | <...> | <...> | <...> | <...> |\n| <dd/mm> | <n> | <...> | <...> | <...> | <...> | <...> |\n| <dd/mm> | <n> | <...> | <...> | <...> | <...> | <...> |\n| <dd/mm> | <n> | <...> | <...> | <...> | <...> | <...> |\n\nNada no processo mudou neste período? [ ] sim  [ ] nêo: <o quê, quando>\nAssinado por: <dono do processo> em <data>"
         },
         {
           "rot": "Prompt · o que este indicador esconde",
           "icone": "chat",
-          "conteudo": "Você é analista de indicadores. Abaixo estão as fichas dos indicadores\nque escolhi para medir um processo antes e depois de redesenhá-lo.\nNão escolha outros. Para cada ficha:\n\n1. Diga se o denominador está claro e se ele pode mudar sozinho e\n   enganar a comparação.\n2. Dê um jeito de o número melhorar sem o processo melhorar.\n3. Diga se o valor de hoje está marcado como observado ou hipótese e\n   se a origem sustenta a marca.\n4. Sugira um guarda-corpo, se a ficha não tiver.\n\nFichas:\n\"\"\"<cole>\"\"\""
+          "conteudo": "Você é analista de indicadores. Abaixo estêo as fichas dos indicadores\nque escolhi para medir um processo antes e depois de redesenhá-lo.\nNêo escolha outros. Para cada ficha:\n\n1. Diga se o denominador está claro e se ele pode mudar sozinho e\n   enganar a comparaçêo.\n2. Dê um jeito de o número melhorar sem o processo melhorar.\n3. Diga se o valor de hoje está marcado como observado ou hipótese e\n   se a origem sustenta a marca.\n4. Sugira um guarda-corpo, se a ficha nêo tiver.\n\nFichas:\n\"\"\"<cole>\"\"\""
         }
       ],
       "saida": {
@@ -148,15 +148,15 @@
         "abas": [
           {
             "rot": "Os três da Horizonte (exemplo)",
-            "html": "<p><b>Pedido pelo WhatsApp → nota · linha de base</b> · Horizonte, empresa fictícia de estudo</p><table><tr><th>Indicador</th><th>Fração</th><th>Hoje</th><th>Meta</th></tr><tr><td>Tempo até a nota</td><td>mediana e p95 de (nota − pedido confirmado), pedidos faturados na semana</td><td>30 h (hipótese: 5 casos)</td><td>24 h ou menos</td></tr><tr><td>Devolução do faturamento</td><td>devolvidos ao atendimento ÷ chegaram ao faturamento, na semana</td><td>~9% (hipótese: declarado)</td><td>3% ou menos</td></tr><tr><td>Minutos de gente por pedido</td><td>soma dos minutos de gente ÷ pedidos faturados</td><td>21 min (hipótese: 5 casos)</td><td>abaixo de 15</td></tr></table><p><b>Guarda-corpo:</b> pedidos com desconto fora da política = 0 por semana. <b>Vira observado:</b> contagem no app e no ERP por quatro semanas, antes da versão 2.0. <b>Meta para:</b> 8 semanas depois da versão 2.0. Metas e prazos: decisão fictícia de estudo.</p>"
+            "html": "<p><b>Pedido pelo WhatsApp → nota · linha de base</b> · Horizonte, empresa fictícia de estudo</p><table><tr><th>Indicador</th><th>Fraçêo</th><th>Hoje</th><th>Meta</th></tr><tr><td>Tempo até a nota</td><td>mediana e p95 de (nota − pedido confirmado), pedidos faturados na semana</td><td>30 h (hipótese: 5 casos)</td><td>24 h ou menos</td></tr><tr><td>Devoluçêo do faturamento</td><td>devolvidos ao atendimento ÷ chegaram ao faturamento, na semana</td><td>~9% (hipótese: declarado)</td><td>3% ou menos</td></tr><tr><td>Minutos de gente por pedido</td><td>soma dos minutos de gente ÷ pedidos faturados</td><td>21 min (hipótese: 5 casos)</td><td>abaixo de 15</td></tr></table><p><b>Guarda-corpo:</b> pedidos com desconto fora da política = 0 por semana. <b>Vira observado:</b> contagem no app e no ERP por quatro semanas, antes da versêo 2.0. <b>Meta para:</b> 8 semanas depois da versêo 2.0. Metas e prazos: decisêo fictícia de estudo.</p>"
           },
           {
             "rot": "O painel, recalculado",
-            "html": "<table><tr><th>Semana</th><th>Atendimentos</th><th>Pedidos</th><th>Pedidos ÷ atendimentos</th></tr><tr><td>01/09</td><td>702</td><td>141</td><td>20,1%</td></tr><tr><td>22/09</td><td>810</td><td>158</td><td>19,5%</td></tr><tr><td>13/10</td><td>901</td><td>168</td><td>18,6%</td></tr></table><p>Dados do <code>indicadores.json</code> do laboratório (fictícios). O painel não tem nenhuma semana antes de 01/07, quando a agente entrou: não há com o que comparar.</p>"
+            "html": "<table><tr><th>Semana</th><th>Atendimentos</th><th>Pedidos</th><th>Pedidos ÷ atendimentos</th></tr><tr><td>01/09</td><td>702</td><td>141</td><td>20,1%</td></tr><tr><td>22/09</td><td>810</td><td>158</td><td>19,5%</td></tr><tr><td>13/10</td><td>901</td><td>168</td><td>18,6%</td></tr></table><p>Dados do <code>indicadores.json</code> do laboratório (fictícios). O painel nêo tem nenhuma semana antes de 01/07, quando a agente entrou: nêo há com o que comparar.</p>"
           },
           {
             "rot": "Como conferir / erros comuns",
-            "html": "<ul><li><b>Contagem sem denominador.</b> \"15 devolvidos\" numa semana de 100 pedidos é muito diferente de numa de 300.</li><li><b>Média de tempo.</b> Um caso travado puxa a média. Use mediana e p95.</li><li><b>Hipótese sem data.</b> Toda hipótese diz quando vira observado.</li><li><b>Períodos diferentes.</b> Comparar quatro semanas de fim de ano com quatro de fevereiro não mede o redesenho.</li><li><b>Tempo liberado vendido como economia.</b> Só vira economia com gasto reduzido ou uso verificado.</li></ul>"
+            "html": "<ul><li><b>Contagem sem denominador.</b> \"15 devolvidos\" numa semana de 100 pedidos é muito diferente de numa de 300.</li><li><b>Média de tempo.</b> Um caso travado puxa a média. Use mediana e p95.</li><li><b>Hipótese sem data.</b> Toda hipótese diz quando vira observado.</li><li><b>Períodos diferentes.</b> Comparar quatro semanas de fim de ano com quatro de fevereiro nêo mede o redesenho.</li><li><b>Tempo liberado vendido como economia.</b> Só vira economia com gasto reduzido ou uso verificado.</li></ul>"
           }
         ]
       }
@@ -171,45 +171,45 @@
           "id": "e1",
           "titulo": "1 · O painel da Horizonte, corrigido",
           "min": "25 min",
-          "texto": "Abra o painel no laboratório. Calcule pedidos ÷ atendimentos na primeira e na última semana. Depois escreva as três fichas de indicador do processo do pedido até a nota e o guarda-corpo. Termine com uma mensagem de três frases ao Carlos explicando por que \"sobe\" não responde se a agente ajudou.",
-          "pronto": "as 2 conversões estão calculadas, as 3 fichas têm numerador, denominador, período, origem, valor de hoje marcado como observado ou hipótese (com data para virar observado), meta e prazo, há 1 guarda-corpo com limite, e a mensagem ao Carlos tem 3 frases."
+          "texto": "Abra o painel no laboratório. Calcule pedidos ÷ atendimentos na primeira e na última semana. Depois escreva as três fichas de indicador do processo do pedido até a nota e o guarda-corpo. Termine com uma mensagem de três frases ao Carlos explicando por que \"sobe\" nêo responde se a agente ajudou.",
+          "pronto": "as 2 conversões estêo calculadas, as 3 fichas têm numerador, denominador, período, origem, valor de hoje marcado como observado ou hipótese (com data para virar observado), meta e prazo, há 1 guarda-corpo com limite, e a mensagem ao Carlos tem 3 frases."
         },
         {
           "id": "e2",
           "titulo": "2 · A linha de base do seu processo",
           "min": "4 semanas",
           "dias": 28,
-          "texto": "Escreva as três fichas de indicador do seu processo e comece o quadro de linha de base. Não mude nada no processo durante as quatro semanas; se algo mudar, anote na coluna de observação.",
-          "pronto": "as 3 fichas estão escritas com valor de hoje observado ou hipótese, e o quadro tem 4 semanas preenchidas com o denominador de cada semana e a assinatura do dono do processo."
+          "texto": "Escreva as três fichas de indicador do seu processo e comece o quadro de linha de base. Nêo mude nada no processo durante as quatro semanas; se algo mudar, anote na coluna de observaçêo.",
+          "pronto": "as 3 fichas estêo escritas com valor de hoje observado ou hipótese, e o quadro tem 4 semanas preenchidas com o denominador de cada semana e a assinatura do dono do processo."
         }
       ]
     },
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "5 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "5 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
           "p": "Os atendimentos da agente subiram de 702 para 901 por semana. O que isso prova?",
           "opcoes": [
             "Que a agente melhorou as vendas, já que os pedidos também subiram",
-            "Nada sozinho: falta o antes e falta o denominador; a conversão caiu",
+            "Nada sozinho: falta o antes e falta o denominador; a conversêo caiu",
             "Que a agente se pagou, porque atende mais gente pelo mesmo custo"
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "Volume pode subir por época do ano, por desconto ou porque a agente conversa mais por pedido. A conversão foi de 20,1% para 18,6%, e \"se pagou\" pede custo e o antes. Sem linha de base, a pergunta \"ajudou?\" fica no achismo."
+          "explica": "Volume pode subir por época do ano, por desconto ou porque a agente conversa mais por pedido. A conversêo foi de 20,1% para 18,6%, e \"se pagou\" pede custo e o antes. Sem linha de base, a pergunta \"ajudou?\" fica no achismo."
         },
         {
           "p": "Qual destas é um indicador completo?",
           "opcoes": [
             "Devolvidos ÷ chegaram ao faturamento, por semana, contados no ERP",
             "Pedidos devolvidos pelo faturamento, contados no ERP toda semana",
-            "Percentual de clientes satisfeitos com a entrega, pelo botão"
+            "Percentual de clientes satisfeitos com a entrega, pelo botêo"
           ],
           "certa": 0,
           "ref": "diagrama",
-          "explica": "Numerador, denominador, período e origem. Contar devolvidos toda semana ainda não tem denominador: o número sobe e desce com o volume. A satisfação pelo botão mede outra coisa, com cerca de 6% de resposta."
+          "explica": "Numerador, denominador, período e origem. Contar devolvidos toda semana ainda nêo tem denominador: o número sobe e desce com o volume. A satisfaçêo pelo botêo mede outra coisa, com cerca de 6% de resposta."
         },
         {
           "p": "O financeiro diz que \"uns 15 por semana voltam\". Como esse valor entra na ficha?",
@@ -220,10 +220,10 @@
           ],
           "certa": 2,
           "ref": "passos",
-          "explica": "Declarado é pista valiosa, mas não é medida, e deixar em branco perde a pista. Marcar como hipótese, com data, protege a comparação de antes e depois."
+          "explica": "Declarado é pista valiosa, mas nêo é medida, e deixar em branco perde a pista. Marcar como hipótese, com data, protege a comparaçêo de antes e depois."
         },
         {
-          "p": "Por que usar mediana, e não média, para o tempo até a nota?",
+          "p": "Por que usar mediana, e nêo média, para o tempo até a nota?",
           "opcoes": [
             "Porque poucos casos travados puxam a média e escondem o normal",
             "Porque a mediana dá sempre um número menor e uma meta mais fácil",
@@ -231,18 +231,18 @@
           ],
           "certa": 0,
           "ref": "passos",
-          "explica": "Nos cinco casos, o pedido de 75 horas puxa a média para cerca de 40 horas; a mediana fica em 30. Mediana para o normal, p95 para o pior caso típico. Não é para facilitar a meta: é para não esconder o normal."
+          "explica": "Nos cinco casos, o pedido de 75 horas puxa a média para cerca de 40 horas; a mediana fica em 30. Mediana para o normal, p95 para o pior caso típico. Nêo é para facilitar a meta: é para nêo esconder o normal."
         },
         {
           "p": "O redesenho liberou 20 horas de gente por semana. O que você pode dizer ao dono?",
           "opcoes": [
             "Que a empresa economizou 20 horas de salário por semana",
-            "Que liberou 20 horas estimadas, que ainda não são economia",
+            "Que liberou 20 horas estimadas, que ainda nêo sêo economia",
             "Que o retorno do projeto está garantido a partir do mês que vem"
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "Capacidade liberada não é dinheiro no caixa. Qualquer retorno é estimado, com incertezas, até que a empresa reduza um gasto ou use o tempo em algo que se possa verificar."
+          "explica": "Capacidade liberada nêo é dinheiro no caixa. Qualquer retorno é estimado, com incertezas, até que a empresa reduza um gasto ou use o tempo em algo que se possa verificar."
         }
       ]
     },
@@ -252,10 +252,10 @@
       "itens": [
         {
           "t": "Volume engana",
-          "texto": "Sem o antes e sem denominador, \"sobe\" não prova nada."
+          "texto": "Sem o antes e sem denominador, \"sobe\" nêo prova nada."
         },
         {
-          "t": "Fração completa",
+          "t": "Fraçêo completa",
           "texto": "Numerador, denominador, período e origem."
         },
         {
@@ -264,7 +264,7 @@
         },
         {
           "t": "Meta e guarda-corpo",
-          "texto": "Valor e prazo, sem piorar o que não pode piorar."
+          "texto": "Valor e prazo, sem piorar o que nêo pode piorar."
         }
       ]
     },
@@ -278,12 +278,12 @@
           "icone": "grafico"
         },
         {
-          "t": "Copilot + Agentes para Empresas: indicadores que viram ação",
+          "t": "Copilot + Agentes para Empresas: indicadores que viram açêo",
           "href": "https://linnoff88-dev.github.io/
           "icone": "alvo"
         },
         {
-          "t": "Área Gestão de IA: o que o gestor mede",
+          "t": "Área Gestêo de IA: o que o gestor mede",
           "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "camadas"
         }

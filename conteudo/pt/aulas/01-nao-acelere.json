@@ -1,11 +1,11 @@
 {
   "slug": "nao-acelere",
   "num": 1,
-  "menu": "Não acelere",
-  "titulo": "Não acelere o processo antigo",
-  "titulo_curto": "Não acelere",
+  "menu": "Nêo acelere",
+  "titulo": "Nêo acelere o processo antigo",
+  "titulo_curto": "Nêo acelere",
   "minutos": 15,
-  "lead": "O dono da Horizonte quer a agente de vendas também no faturamento, fazendo igual ao que a equipe faz hoje. Parece o caminho seguro. Não é: um processo desenhado para pessoas passarem papel de mão em mão, executado por um agente, só entrega o mesmo erro mais rápido. Esta aula ensina a olhar cada etapa e perguntar por que ela existe.",
+  "lead": "O dono da Horizonte quer a agente de vendas também no faturamento, fazendo igual ao que a equipe faz hoje. Parece o caminho seguro. Nêo é: um processo desenhado para pessoas passarem papel de mêo em mêo, executado por um agente, só entrega o mesmo erro mais rápido. Esta aula ensina a olhar cada etapa e perguntar por que ela existe.",
   "objetivo": "explicar por que automatizar um processo ruim entrega o erro mais rápido e marcar, num processo seu, as etapas que existem só por hábito.",
   "competencias": [
     "questionar-o-processo-antes-de-automatizar",
@@ -17,13 +17,13 @@
       "t": "Por que acelerar o processo antigo acelera também o erro"
     },
     {
-      "t": "As três origens de uma etapa: exigência real, hábito e passagem de mão"
+      "t": "As três origens de uma etapa: exigência real, hábito e passagem de mêo"
     },
     {
       "t": "A pergunta que vem antes de qualquer agente"
     },
     {
-      "t": "O que não se corta, mesmo parecendo burocracia"
+      "t": "O que nêo se corta, mesmo parecendo burocracia"
     }
   ],
   "hero_alt": "Uma atendente segura um celular e uma folha recém-impressa ao lado de uma impressora que solta uma pilha de pedidos; ao lado, um monitor com uma planilha.",
@@ -31,7 +31,7 @@
     {
       "tipo": "diagrama",
       "titulo": "Quatro gerações de processo",
-      "sub": "Cada geração mudou o que se faz com o processo depois de desenhado. Clique em cada degrau.",
+      "sub": "Cada geraçêo mudou o que se faz com o processo depois de desenhado. Clique em cada degrau.",
       "estilo": "escada",
       "nos": [
         {
@@ -44,52 +44,52 @@
           "icone": "chip",
           "titulo": "Automatizado",
           "sub": "desenhar, automatizar, monitorar",
-          "detalhe": "Um sistema passa a fazer parte das etapas, e alguém monitora se ele está rodando. O desenho continua o mesmo de antes: a automação copia o caminho que as pessoas faziam. É aqui que nasce o risco de acelerar o erro."
+          "detalhe": "Um sistema passa a fazer parte das etapas, e alguém monitora se ele está rodando. O desenho continua o mesmo de antes: a automaçêo copia o caminho que as pessoas faziam. É aqui que nasce o risco de acelerar o erro."
         },
         {
           "icone": "robo",
           "titulo": "Agêntico",
           "sub": "objetivo, agente executa, mede, avalia",
           "forte": true,
-          "detalhe": "O agente recebe um objetivo, não uma lista de cliques. Ele executa vários passos, a execução é medida e uma pessoa (ou outro agente) avalia. Se o objetivo for \"faça igual à equipe\", o agente herda as etapas inúteis junto com as úteis."
+          "detalhe": "O agente recebe um objetivo, nêo uma lista de cliques. Ele executa vários passos, a execuçêo é medida e uma pessoa (ou outro agente) avalia. Se o objetivo for \"faça igual à equipe\", o agente herda as etapas inúteis junto com as úteis."
         },
         {
           "icone": "camadas",
           "titulo": "LOOP-R",
-          "sub": "o processo que melhora com a execução",
-          "detalhe": "Executar, observar, criticar, propor, experimentar, validar, promover, repetir. O processo deixa de ser congelado: cada execução gera evidência para a próxima versão, e a versão anterior fica guardada para voltar. É o assunto da aula 7."
+          "sub": "o processo que melhora com a execuçêo",
+          "detalhe": "Executar, observar, criticar, propor, experimentar, validar, promover, repetir. O processo deixa de ser congelado: cada execuçêo gera evidência para a próxima versêo, e a versêo anterior fica guardada para voltar. É o assunto da aula 7."
         }
       ],
-      "legenda": "Gerações de processo da área Gestão de IA (ARCKHÉ). Elas convivem na mesma empresa: um processo pode estar no degrau 1 e outro no 3.",
+      "legenda": "Gerações de processo da área Gestêo de IA (ARCKHÉ). Elas convivem na mesma empresa: um processo pode estar no degrau 1 e outro no 3.",
       "dica": "Antes de subir um processo de degrau, pergunte se ele ainda deveria existir desse jeito."
     },
     {
       "tipo": "passos",
-      "titulo": "Por que não acelerar",
-      "sub": "Quatro ideias. Os exemplos são da Horizonte, empresa fictícia de estudo.",
+      "titulo": "Por que nêo acelerar",
+      "sub": "Quatro ideias. Os exemplos sêo da Horizonte, empresa fictícia de estudo.",
       "passos": [
         {
           "titulo": "O erro mais rápido",
           "sub": "o agente herda o desenho",
           "texto": [
-            "Um processo desenhado para pessoas tem etapas que existem porque as pessoas não alcançavam tudo: uma copia, outra confere, uma terceira leva o papel. Colocar um agente para repetir esse caminho mantém todas as etapas, só que mais rápidas.",
+            "Um processo desenhado para pessoas tem etapas que existem porque as pessoas nêo alcançavam tudo: uma copia, outra confere, uma terceira leva o papel. Colocar um agente para repetir esse caminho mantém todas as etapas, só que mais rápidas.",
             "Se o desenho tinha um erro, o erro também fica mais rápido. E mais difícil de ver, porque agora ninguém percorre o caminho inteiro com os próprios olhos."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
-            "texto": "Hoje o financeiro redigita cada pedido no ERP e só então descobre que o cliente não tem CNPJ cadastrado. Com a Hora redigitando, o pedido sem CNPJ chega ao financeiro mais cedo, já separado no estoque, e volta do mesmo jeito."
+            "texto": "Hoje o financeiro redigita cada pedido no ERP e só entêo descobre que o cliente nêo tem CNPJ cadastrado. Com a Hora redigitando, o pedido sem CNPJ chega ao financeiro mais cedo, já separado no estoque, e volta do mesmo jeito."
           }
         },
         {
           "titulo": "Três origens de uma etapa",
-          "sub": "exigência, hábito, passagem de mão",
+          "sub": "exigência, hábito, passagem de mêo",
           "texto": [
-            "Toda etapa nasceu por um motivo. <b>Exigência real</b>: lei, contrato, cliente ou um risco que alguém já viveu. <b>Hábito</b>: sempre foi assim e ninguém sabe dizer o porquê. <b>Passagem de mão</b>: só existe para levar o trabalho de uma pessoa a outra.",
-            "Passagem de mão é o hábito mais comum e o mais fácil de achar: imprimir, encaminhar, avisar que terminou, copiar de um sistema para outro."
+            "Toda etapa nasceu por um motivo. <b>Exigência real</b>: lei, contrato, cliente ou um risco que alguém já viveu. <b>Hábito</b>: sempre foi assim e ninguém sabe dizer o porquê. <b>Passagem de mêo</b>: só existe para levar o trabalho de uma pessoa a outra.",
+            "Passagem de mêo é o hábito mais comum e o mais fácil de achar: imprimir, encaminhar, avisar que terminou, copiar de um sistema para outro."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
-            "texto": "Emitir a nota fiscal é exigência real. Copiar o pedido do app para a planilha é hábito: a planilha nasceu antes do app. Imprimir o pedido para o estoque é passagem de mão."
+            "texto": "Emitir a nota fiscal é exigência real. Copiar o pedido do app para a planilha é hábito: a planilha nasceu antes do app. Imprimir o pedido para o estoque é passagem de mêo."
           }
         },
         {
@@ -97,23 +97,23 @@
           "sub": "ainda existiria desse jeito?",
           "texto": [
             "A pergunta que muda o trabalho é esta: se eu tivesse pessoas, agentes e automações disponíveis hoje, esse processo ainda existiria desse jeito? Ela vale para o processo inteiro e para cada etapa.",
-            "Na etapa, a versão prática é: esta etapa precisa existir se as três anteriores forem feitas de uma vez, pela mesma pessoa ou pelo mesmo agente? Muitas passagens de mão somem sozinhas."
+            "Na etapa, a versêo prática é: esta etapa precisa existir se as três anteriores forem feitas de uma vez, pela mesma pessoa ou pelo mesmo agente? Muitas passagens de mêo somem sozinhas."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
-            "texto": "Se o pedido nasce completo no app, o estoque o vê na tela e o financeiro o recebe no ERP, cinco etapas deixam de ter motivo: a planilha, o papel, o aviso por WhatsApp, o e-mail ao financeiro e a redigitação."
+            "texto": "Se o pedido nasce completo no app, o estoque o vê na tela e o financeiro o recebe no ERP, cinco etapas deixam de ter motivo: a planilha, o papel, o aviso por WhatsApp, o e-mail ao financeiro e a redigitaçêo."
           }
         },
         {
-          "titulo": "O que não se corta",
+          "titulo": "O que nêo se corta",
           "sub": "pergunte antes de cortar",
           "texto": [
-            "Hábito às vezes esconde um motivo que ninguém escreveu. Antes de marcar uma etapa como hábito, pergunte a quem a faz: por que isso existe? o que já deu errado quando não foi feito? Se a resposta for um risco real, a etapa é exigência.",
-            "Também ficam as etapas de julgamento, exceção, supervisão e estratégia. Elas mudam de lugar e de tamanho, mas continuam com uma pessoa."
+            "Hábito às vezes esconde um motivo que ninguém escreveu. Antes de marcar uma etapa como hábito, pergunte a quem a faz: por que isso existe? o que já deu errado quando nêo foi feito? Se a resposta for um risco real, a etapa é exigência.",
+            "Também ficam as etapas de julgamento, exceçêo, supervisêo e estratégia. Elas mudam de lugar e de tamanho, mas continuam com uma pessoa."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
-            "texto": "A Patrícia aprova pedido acima de R$ 5 mil antes da separação: exigência (política fictícia da empresa). Já conferir o preço de todos os pedidos, inclusive os de tabela, é hábito nascido de um susto. O risco é real; a forma, não."
+            "texto": "A Patrícia aprova pedido acima de R$ 5 mil antes da separaçêo: exigência (política fictícia da empresa). Já conferir o preço de todos os pedidos, inclusive os de tabela, é hábito nascido de um susto. O risco é real; a forma, nêo."
           }
         }
       ]
@@ -126,12 +126,12 @@
         {
           "rot": "Folha de etiquetas do processo",
           "icone": "lista",
-          "conteudo": "FOLHA DE ETIQUETAS · processo: <de onde até onde> · dono: <nome> · data: <dd/mm/aaaa>\n\nEtiquetas\n  X = exigência real (lei, contrato, cliente, risco que alguém já viveu)\n  H = hábito (sempre foi assim; ninguém sabe dizer o porquê)\n  P = passagem de mão (só existe para levar o trabalho de uma pessoa a outra)\n\n| # | Etapa (verbo + objeto) | Quem faz | Etiqueta | Por que existe (resposta de quem faz) | Se sumir, o que quebra? |\n|---|---|---|---|---|---|\n| 1 | <receber o pedido> | <nome ou função> | <X, H ou P> | <...> | <...> |\n| 2 | <...> | <...> | <...> | <...> | <...> |\n\nCONTAGEM: X = <n> · H = <n> · P = <n>\nPERGUNTAS QUE FIZ A QUEM FAZ: <nomes e data>\nPERGUNTA DE FECHAMENTO: se eu tivesse pessoas, agentes e automações hoje,\neste processo existiria desse jeito? <sim ou não, em duas frases>"
+          "conteudo": "FOLHA DE ETIQUETAS · processo: <de onde até onde> · dono: <nome> · data: <dd/mm/aaaa>\n\nEtiquetas\n  X = exigência real (lei, contrato, cliente, risco que alguém já viveu)\n  H = hábito (sempre foi assim; ninguém sabe dizer o porquê)\n  P = passagem de mêo (só existe para levar o trabalho de uma pessoa a outra)\n\n| # | Etapa (verbo + objeto) | Quem faz | Etiqueta | Por que existe (resposta de quem faz) | Se sumir, o que quebra? |\n|---|---|---|---|---|---|\n| 1 | <receber o pedido> | <nome ou funçêo> | <X, H ou P> | <...> | <...> |\n| 2 | <...> | <...> | <...> | <...> | <...> |\n\nCONTAGEM: X = <n> · H = <n> · P = <n>\nPERGUNTAS QUE FIZ A QUEM FAZ: <nomes e data>\nPERGUNTA DE FECHAMENTO: se eu tivesse pessoas, agentes e automações hoje,\neste processo existiria desse jeito? <sim ou nêo, em duas frases>"
         },
         {
-          "rot": "Prompt · procurar passagem de mão",
+          "rot": "Prompt · procurar passagem de mêo",
           "icone": "chat",
-          "conteudo": "Você é analista de processos. Abaixo está a lista de etapas de um processo\nda minha empresa, na ordem em que acontecem, com quem faz cada uma.\nNão reescreva o processo e não decida nada. Só aponte:\n\n1. Etapas que parecem existir só para passar o trabalho de uma pessoa a\n   outra (imprimir, encaminhar, avisar, copiar de um sistema para outro).\n2. Etapas que repetem uma conferência já feita antes.\n3. Para cada etapa apontada, a pergunta que eu deveria fazer a quem a\n   executa para descobrir se existe um motivo real.\n\nEtapas:\n\"\"\"<cole a lista>\"\"\""
+          "conteudo": "Você é analista de processos. Abaixo está a lista de etapas de um processo\nda minha empresa, na ordem em que acontecem, com quem faz cada uma.\nNêo reescreva o processo e nêo decida nada. Só aponte:\n\n1. Etapas que parecem existir só para passar o trabalho de uma pessoa a\n   outra (imprimir, encaminhar, avisar, copiar de um sistema para outro).\n2. Etapas que repetem uma conferência já feita antes.\n3. Para cada etapa apontada, a pergunta que eu deveria fazer a quem a\n   executa para descobrir se existe um motivo real.\n\nEtapas:\n\"\"\"<cole a lista>\"\"\""
         }
       ],
       "saida": {
@@ -143,7 +143,7 @@
           },
           {
             "rot": "Como conferir / erros comuns",
-            "html": "<ul><li><b>Etapa escrita como área</b> (\"financeiro\") em vez de verbo + objeto (\"redigitar o pedido no ERP\"). Sem verbo, não dá para perguntar por que existe.</li><li><b>Etiqueta dada sem perguntar</b> a quem faz. A coluna \"por que existe\" tem de ter a resposta da pessoa, não a sua suposição.</li><li><b>Tudo vira hábito.</b> Se você marcou mais H e P do que X, confira: nota fiscal, aprovação de valor e conferência de estoque costumam ser exigência.</li><li><b>Processo sem ponta.</b> A primeira linha é o gatilho (o que chega); a última, a conclusão (o que sai e para quem).</li></ul>"
+            "html": "<ul><li><b>Etapa escrita como área</b> (\"financeiro\") em vez de verbo + objeto (\"redigitar o pedido no ERP\"). Sem verbo, nêo dá para perguntar por que existe.</li><li><b>Etiqueta dada sem perguntar</b> a quem faz. A coluna \"por que existe\" tem de ter a resposta da pessoa, nêo a sua suposiçêo.</li><li><b>Tudo vira hábito.</b> Se você marcou mais H e P do que X, confira: nota fiscal, aprovaçêo de valor e conferência de estoque costumam ser exigência.</li><li><b>Processo sem ponta.</b> A primeira linha é o gatilho (o que chega); a última, a conclusêo (o que sai e para quem).</li></ul>"
           }
         ]
       }
@@ -173,36 +173,36 @@
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
           "p": "Uma empresa colocou um agente para fazer exatamente as etapas que a equipe fazia, na mesma ordem. O tempo caiu pela metade. O que aconteceu com o processo?",
           "opcoes": [
             "Foi redesenhado: o tempo caiu pela metade, e isso já prova o novo desenho",
-            "Melhorou por inteiro, porque o agente não repete os erros das pessoas",
+            "Melhorou por inteiro, porque o agente nêo repete os erros das pessoas",
             "Ficou igual, só mais rápido: acertos e erros do desenho antigo continuam"
           ],
           "certa": 2,
           "ref": "passos",
-          "explica": "Ganhar tempo não é redesenhar. É IA em cima do processo antigo: ganho real, mas as etapas inúteis e os erros de desenho continuam, agora mais rápidos e menos visíveis."
+          "explica": "Ganhar tempo nêo é redesenhar. É IA em cima do processo antigo: ganho real, mas as etapas inúteis e os erros de desenho continuam, agora mais rápidos e menos visíveis."
         },
         {
           "p": "Na Horizonte, a Juliana manda um e-mail ao financeiro com cada pedido separado. Qual é a etiqueta mais provável dessa etapa?",
           "opcoes": [
-            "P, passagem de mão: só existe porque o pedido não chega sozinho",
-            "X, exigência real: sem o e-mail o financeiro não fatura o pedido",
+            "P, passagem de mêo: só existe porque o pedido nêo chega sozinho",
+            "X, exigência real: sem o e-mail o financeiro nêo fatura o pedido",
             "H, hábito: o e-mail foi pedido um dia e ninguém tirou mais"
           ],
           "certa": 0,
           "ref": "passos",
-          "explica": "O financeiro precisa do pedido; não precisa do e-mail. Se o pedido chegasse ao ERP direto do app, essa etapa perderia o motivo. Passagem de mão é o hábito mais comum e o mais fácil de achar."
+          "explica": "O financeiro precisa do pedido; nêo precisa do e-mail. Se o pedido chegasse ao ERP direto do app, essa etapa perderia o motivo. Passagem de mêo é o hábito mais comum e o mais fácil de achar."
         },
         {
           "p": "Você suspeita que uma conferência é só hábito. O que fazer antes de marcá-la como H?",
           "opcoes": [
             "Medir quanto tempo ela consome e cortar se passar de dez minutos",
             "Perguntar a quem faz por que existe e o que já deu errado sem ela",
-            "Ver se ela aparece no manual do processo; se não aparece, é hábito"
+            "Ver se ela aparece no manual do processo; se nêo aparece, é hábito"
           ],
           "certa": 1,
           "ref": "passos",
@@ -212,12 +212,12 @@
           "p": "Qual destas etapas continua com uma pessoa depois do redesenho?",
           "opcoes": [
             "Conferir se o cliente tem CNPJ cadastrado antes de montar o pedido",
-            "Copiar o pedido do app para o ERP quando os dois não se falam",
-            "Decidir se um cliente antigo merece condição fora da política"
+            "Copiar o pedido do app para o ERP quando os dois nêo se falam",
+            "Decidir se um cliente antigo merece condiçêo fora da política"
           ],
           "certa": 2,
           "ref": "passos",
-          "explica": "Decidir fora da regra é julgamento e exceção: fica com uma pessoa. Conferir o cadastro é regra (mesma informação, mesma resposta) e pode virar verificação do sistema; copiar de um sistema para outro é passagem de mão, candidata a sumir."
+          "explica": "Decidir fora da regra é julgamento e exceçêo: fica com uma pessoa. Conferir o cadastro é regra (mesma informaçêo, mesma resposta) e pode virar verificaçêo do sistema; copiar de um sistema para outro é passagem de mêo, candidata a sumir."
         }
       ]
     },
@@ -226,12 +226,12 @@
       "titulo": "Resumo",
       "itens": [
         {
-          "t": "Acelerar não é redesenhar",
+          "t": "Acelerar nêo é redesenhar",
           "texto": "O agente herda o desenho, com os erros dele, só que mais rápido."
         },
         {
           "t": "Três origens",
-          "texto": "Exigência real fica. Hábito e passagem de mão são candidatos a sair."
+          "texto": "Exigência real fica. Hábito e passagem de mêo sêo candidatos a sair."
         },
         {
           "t": "A pergunta de antes",
@@ -248,7 +248,7 @@
       "titulo": "Para ir além",
       "links": [
         {
-          "t": "Área Gestão de IA: processo não é sagrado",
+          "t": "Área Gestêo de IA: processo nêo é sagrado",
           "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
